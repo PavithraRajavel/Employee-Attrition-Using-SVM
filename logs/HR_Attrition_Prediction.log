@@ -1,0 +1,72 @@
+2024-08-04 00:19:28,620 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:19:28,628 INFO Data preprocessing completed successfully
+2024-08-04 00:19:30,402 INFO Histograms saved successfully
+2024-08-04 00:19:30,402 ERROR Error plotting categorical variables: name 'pd' is not defined
+2024-08-04 00:19:30,402 ERROR Error in main function: name 'pd' is not defined
+2024-08-04 00:20:40,829 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:20:40,831 INFO Data preprocessing completed successfully
+2024-08-04 00:20:42,699 INFO Histograms saved successfully
+2024-08-04 00:20:42,700 ERROR Error plotting categorical variables: name 'pd' is not defined
+2024-08-04 00:20:42,700 ERROR Error in main function: name 'pd' is not defined
+2024-08-04 00:21:16,974 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:21:16,975 INFO Data preprocessing completed successfully
+2024-08-04 00:21:18,705 INFO Histograms saved successfully
+2024-08-04 00:21:21,365 INFO Categorical plots saved successfully
+2024-08-04 00:21:22,033 INFO Correlation heatmap saved successfully
+2024-08-04 00:21:22,055 INFO Dummy variables created successfully
+2024-08-04 00:21:22,066 INFO Data scaling completed successfully
+2024-08-04 00:21:22,074 INFO Data split into train and test sets successfully
+2024-08-04 00:21:22,107 INFO Logistic regression model trained successfully
+2024-08-04 00:21:22,134 ERROR Error saving confusion matrix for logistic_regression_train: name 'sns' is not defined
+2024-08-04 00:21:22,134 ERROR Error in main function: name 'sns' is not defined
+2024-08-04 00:22:04,867 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:22:04,869 INFO Data preprocessing completed successfully
+2024-08-04 00:22:06,513 INFO Histograms saved successfully
+2024-08-04 00:22:08,973 INFO Categorical plots saved successfully
+2024-08-04 00:22:09,617 INFO Correlation heatmap saved successfully
+2024-08-04 00:22:09,628 INFO Dummy variables created successfully
+2024-08-04 00:22:09,639 INFO Data scaling completed successfully
+2024-08-04 00:22:09,643 INFO Data split into train and test sets successfully
+2024-08-04 00:22:09,671 INFO Logistic regression model trained successfully
+2024-08-04 00:22:09,777 ERROR Error saving confusion matrix for logistic_regression_train: name 'os' is not defined
+2024-08-04 00:22:09,777 ERROR Error in main function: name 'os' is not defined
+2024-08-04 00:23:31,898 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:23:31,899 INFO Data preprocessing completed successfully
+2024-08-04 00:23:33,590 INFO Histograms saved successfully
+2024-08-04 00:23:36,126 INFO Categorical plots saved successfully
+2024-08-04 00:23:36,850 INFO Correlation heatmap saved successfully
+2024-08-04 00:23:36,862 INFO Dummy variables created successfully
+2024-08-04 00:23:36,873 INFO Data scaling completed successfully
+2024-08-04 00:23:36,877 INFO Data split into train and test sets successfully
+2024-08-04 00:23:36,908 INFO Logistic regression model trained successfully
+2024-08-04 00:23:37,144 INFO Confusion matrix for logistic_regression_train saved successfully
+2024-08-04 00:23:37,349 INFO Confusion matrix for logistic_regression_test saved successfully
+2024-08-04 00:23:37,901 INFO SVM model with linear kernel trained successfully
+2024-08-04 00:23:38,173 INFO Confusion matrix for svm_linear_train saved successfully
+2024-08-04 00:23:38,405 INFO Confusion matrix for svm_linear_test saved successfully
+2024-08-04 00:23:38,599 INFO SVM model with rbf kernel trained successfully
+2024-08-04 00:23:39,143 INFO Confusion matrix for svm_rbf_train saved successfully
+2024-08-04 00:23:39,416 INFO Confusion matrix for svm_rbf_test saved successfully
+2024-08-04 00:23:39,575 INFO SVM model with poly kernel trained successfully
+2024-08-04 00:23:39,894 INFO Confusion matrix for svm_poly_train saved successfully
+2024-08-04 00:23:40,118 INFO Confusion matrix for svm_poly_test saved successfully
+2024-08-04 00:24:26,950 INFO Data read successfully from data/HR_Employee_Attrition.xlsx
+2024-08-04 00:24:26,952 INFO Data preprocessing completed successfully
+2024-08-04 00:24:28,602 INFO Histograms saved successfully
+2024-08-04 00:24:31,184 INFO Categorical plots saved successfully
+2024-08-04 00:24:31,850 INFO Correlation heatmap saved successfully
+2024-08-04 00:24:31,860 INFO Dummy variables created successfully
+2024-08-04 00:24:31,872 INFO Data scaling completed successfully
+2024-08-04 00:24:31,878 INFO Data split into train and test sets successfully
+2024-08-04 00:24:31,908 INFO Logistic regression model trained successfully
+2024-08-04 00:24:32,106 INFO Confusion matrix for logistic_regression_train saved successfully
+2024-08-04 00:24:32,289 INFO Confusion matrix for logistic_regression_test saved successfully
+2024-08-04 00:24:32,813 INFO SVM model with linear kernel trained successfully
+2024-08-04 00:24:33,074 INFO Confusion matrix for svm_linear_train saved successfully
+2024-08-04 00:24:33,276 INFO Confusion matrix for svm_linear_test saved successfully
+2024-08-04 00:24:33,463 INFO SVM model with rbf kernel trained successfully
+2024-08-04 00:24:33,964 INFO Confusion matrix for svm_rbf_train saved successfully
+2024-08-04 00:24:34,217 INFO Confusion matrix for svm_rbf_test saved successfully
+2024-08-04 00:24:34,382 INFO SVM model with poly kernel trained successfully
+2024-08-04 00:24:34,690 INFO Confusion matrix for svm_poly_train saved successfully
+2024-08-04 00:24:34,905 INFO Confusion matrix for svm_poly_test saved successfully
